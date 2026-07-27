@@ -86,14 +86,12 @@ class Developer {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://Azaz-ahmad-khan.github.io/Azaz-ahmad-khan/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://Azaz-ahmad-khan.github.io/Azaz-ahmad-khan/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://Azaz-ahmad-khan.github.io/Azaz-ahmad-khan/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azaz-ahmad-khan/Azaz-ahmad-khan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azaz-ahmad-khan/Azaz-ahmad-khan/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Azaz-ahmad-khan/Azaz-ahmad-khan/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
-
-> ⚠️ Snake requires setting up the GitHub Action — see [setup guide](https://github.com/Platane/snk)
 
 ---
 
